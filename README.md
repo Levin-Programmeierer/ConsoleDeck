@@ -13,6 +13,8 @@
 
 ## 🔌 Arduino Nano Setup
 
+BEFORE UPLOADING MAKE SURE PIN SETTINGS ARE CORRECT FOR THE BUTTONS AND THE VOLUME BUTTON.
+
 1. 📥 Install or open **Arduino IDE**
 2. 🔗 Connect your **Arduino Nano** via USB
 3. 📁 Locate the Arduino sketch:
